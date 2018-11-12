@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541255967 source:c:\c++\lab_proj\main.c
+	<windows.h>
+	<stdio.h>
+
+1541845210 source:c:\codes_projects\c++\lab_proj\main.c
+	<windows.h>
+	<stdio.h>
+
